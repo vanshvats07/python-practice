@@ -9,3 +9,7 @@ is_student=True
 print("age:",age)
 print("name:",name)
 print("height:",height)
+for i in range(12):
+    if i%2==0:
+        continue
+    print(i)
