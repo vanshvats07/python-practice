@@ -1,12 +1,14 @@
 # Python Practice
 
 A personal collection of small Python examples and notebooks for learning and
-practising programming fundamentals. The materials currently include basic
-variables and data types, with `app.py` as a minimal standalone script.
+practising programming fundamentals, including variables, lists, arithmetic,
+conditionals, and simple input-based exercises.
 
 ## Project contents
 
-- `1-Pythob Basics/` — introductory examples and Jupyter notebooks.
+- `1-Pythob Basics/variables.py` — variable assignments and a `continue` loop.
+- `1-Pythob Basics/Datatypes.ipynb` — list and data-type examples.
+- `1-Pythob Basics/test.ipynb` — beginner arithmetic and number exercises.
 - `app.py` — a small script that can be run with `python app.py`.
 
 ## Run an example
