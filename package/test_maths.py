@@ -1,6 +1,12 @@
 import unittest
 
-from package.maths import addition, division, multiplication, subtraction
+from package.maths import (
+    addition,
+    division,
+    exponentiation,
+    multiplication,
+    subtraction,
+)
 
 
 class MathsTests(unittest.TestCase):
@@ -19,6 +25,10 @@ class MathsTests(unittest.TestCase):
     def test_division_by_zero_raises(self):
         with self.assertRaises(ZeroDivisionError):
             division(8, 0)
+
+    def test_exponentiation(self):
+        self.assertEqual(exponentiation(2, 3), 8)
+        self.assertEqual(exponentiation(2, -2), 0.25)
 
 
 if __name__ == "__main__":
