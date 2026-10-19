@@ -10,6 +10,7 @@ conditionals, and simple input-based exercises.
 - `1-Pythob Basics/Datatypes.ipynb` — list and data-type examples.
 - `1-Pythob Basics/test.ipynb` — beginner arithmetic and number exercises.
 - `app.py` — a small script that can be run with `python app.py`.
+- `package/maths.py` — basic arithmetic functions with a small unit test suite.
 
 ## Run an example
 
@@ -24,6 +25,17 @@ To run the variables example:
 ```bash
 python "1-Pythob Basics/variables.py"
 ```
+
+Run the maths example and its tests from the repository root:
+
+```bash
+python -m package.test
+python -m unittest package.test_maths
+```
+
+The maths module includes addition, subtraction, multiplication, division,
+exponentiation, floor division, and remainder. Division by zero raises
+`ZeroDivisionError`.
 
 For notebook support, install the listed dependency with
 `python -m pip install -r requirements.txt`, then open a notebook in an
