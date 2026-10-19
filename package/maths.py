@@ -15,3 +15,6 @@ def exponentiation(a, b):
 
 def floor_division(a, b):
     return a // b
+
+def remainder(a, b):
+    return a % b
