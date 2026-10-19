@@ -9,3 +9,6 @@ def multiplication(a, b):
 
 def division(a, b):
     return a / b
+
+def exponentiation(a, b):
+    return a ** b
