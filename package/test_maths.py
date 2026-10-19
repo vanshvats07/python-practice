@@ -4,7 +4,9 @@ from package.maths import (
     addition,
     division,
     exponentiation,
+    floor_division,
     multiplication,
+    remainder,
     subtraction,
 )
 
@@ -29,6 +31,14 @@ class MathsTests(unittest.TestCase):
     def test_exponentiation(self):
         self.assertEqual(exponentiation(2, 3), 8)
         self.assertEqual(exponentiation(2, -2), 0.25)
+
+    def test_floor_division(self):
+        self.assertEqual(floor_division(7, 3), 2)
+        self.assertEqual(floor_division(-7, 3), -3)
+
+    def test_remainder(self):
+        self.assertEqual(remainder(7, 3), 1)
+        self.assertEqual(remainder(-7, 3), 2)
 
 
 if __name__ == "__main__":
