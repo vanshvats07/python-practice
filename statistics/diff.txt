@@ -3,3 +3,5 @@ suppose there is an island where 100k people live so population is 100k
 task is to get weight of all the person living in the island
 sample size is that the amount of data collected from population
 Mode is element with the max frequency
+for central tendency we have mean median Mode
+and for measure of dispersion we have variance standard deviation
