@@ -9,4 +9,4 @@ why sample variance divided by n-1 We divide by n - 1 instead of n in the sample
 variable is a property that can take up any value for ex age=25 and gender=male and height=5.10 means only single values is assigned
 diff types of variables are quantitative and qualitative variables
 quantitative further of two types discrete and continuous 
-dis
+discrete quantitative you have to take a whole number not a fraction or decimal
