@@ -14,5 +14,6 @@ continuous quantiative you use height is 175.5 it can have any type of value
 qualitative are categorical values one is gender one is color 
 random variables denote by X is a function whose values is derived from different process 
 like Tossing a coin possibilities are head or tails
-
+if head then 0 and if tail then 1
+Rolling a fair dice outcomes are 1,2,3,4,5,6
 
