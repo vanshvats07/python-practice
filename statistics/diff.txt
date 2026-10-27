@@ -7,4 +7,6 @@ for central tendency we have mean median Mode
 and for measure of dispersion we have variance standard deviation
 why sample variance divided by n-1 We divide by n - 1 instead of n in the sample variance formula—a adjustment known as Bessel's Correction—to make the sample variance an unbiased estimator of the true population variance. Unbiased Estimation: If you divide by n, your calculated sample variances tend to be slightly smaller than the true population variance on average (a biased estimate). Dividing by n - 1 boosts the result just enough to correct this underestimation
 variable is a property that can take up any value for ex age=25 and gender=male and height=5.10 means only single values is assigned
-
+diff types of variables are quantitative and qualitative variables
+quantitative further of two types discrete and continuous 
+dis
