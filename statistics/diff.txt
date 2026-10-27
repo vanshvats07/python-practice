@@ -48,4 +48,8 @@ An outlier is a data point that differs significantly from the rest of the obser
 Covariance and correlation 
 covariance and correlations are two statistical measures used to determine the relationship between two variables. Both are used to understand how changes in one varibale are associated with changes in another variable
 advantages of covariance you will be able to quantify the relationship between x and y 
-disadvantage covariance doesnt have a specific limit value  
+disadvantage covariance doesnt have a specific limit value. To tackle this disadvantage correlation was discovered
+It is of two types Pearson coefficient and the other is spearman correlation
+Pearson coefficient limits covvariance from [-1 to 1]
+fir this we divide the covariance by standard deviation of x and y 
+the more the value towards +1 the more +ve correlated x and y
