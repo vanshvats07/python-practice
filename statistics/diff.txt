@@ -45,3 +45,5 @@ quarter 3 is the 75 percentile of the sample
 
 q1= 25*(n+1)/100 you get the position from this not the direct value
 An outlier is a data point that differs significantly from the rest of the observations in a dataset
+Covariance and correlation 
+covariance and correlations are two statistical measures used to determine the relationship between two variables. Both are used to understand how changes in one varibale are associated with changes in another variable
