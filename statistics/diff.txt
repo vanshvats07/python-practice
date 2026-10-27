@@ -25,4 +25,5 @@ Percentile and Quarters
 Percentile is a value below which certain percentage of observation lie
 In simple way it is
 ki aap kitne percent chizo se aage ho
+Quartiles 25 percent 1 quartiles 50 percent is 2nd quartile 75 is third quartile and so on 
 
