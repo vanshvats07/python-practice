@@ -16,4 +16,6 @@ random variables denote by X is a function whose values is derived from differen
 like Tossing a coin possibilities are head or tails
 if head then 0 and if tail then 1
 Rolling a fair dice outcomes are 1,2,3,4,5,6
+discrete randon tossing a coin rolling a dice fixed whole number output 
+continuous random variable tomorrow how many inches it is going to rain can be anything be it 2.5mm or 5.6 mm 
 
