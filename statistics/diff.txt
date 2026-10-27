@@ -44,3 +44,4 @@ quarter 1 is 25 percentile of the sample
 quarter 3 is the 75 percentile of the sample
 
 q1= 25*(n+1)/100 you get the position from this not the direct value
+An outlier is a data point that differs significantly from the rest of the observations in a dataset
