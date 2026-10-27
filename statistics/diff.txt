@@ -21,5 +21,6 @@ continuous random variable tomorrow how many inches it is going to rain can be a
 for continuos random variable another example is that the height of the people coming for the event tomorrow can be 5.4 or 5.5 or 5.6
 random variable is more of a function that derives its values from process
 A histogram is a graphical representation that shows the frequency distribution of continuous numerical data
-
+Percentile and Quarters
+Percentile is a value below which certain percentage of observation lie
 
