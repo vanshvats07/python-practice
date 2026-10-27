@@ -23,4 +23,6 @@ random variable is more of a function that derives its values from process
 A histogram is a graphical representation that shows the frequency distribution of continuous numerical data
 Percentile and Quarters
 Percentile is a value below which certain percentage of observation lie
+In simple way it is
+ki aap kitne percent chizo se aage ho
 
