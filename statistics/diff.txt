@@ -27,3 +27,20 @@ In simple way it is
 ki aap kitne percent chizo se aage ho
 Quartiles 25 percent 1 quartiles 50 percent is 2nd quartile 75 is third quartile and so on 
 
+Number summary 
+1 Minimum
+2 1st quartile
+3 median
+4 3rd quartile 
+5 Maximum
+
+steps to remove outliers
+anything lower than the lower fence will give you outlier and anything above the higher fence will give the outlier value
+
+Lower fence =quarter 1-1.5(iqr) :: iqr is the difference between the 3rd quartile and the first quartile
+higher fence=quarter3+1.5(iqr)
+
+quarter 1 is 25 percentile of the sample
+quarter 3 is the 75 percentile of the sample
+
+q1= 25*(n+1)/100 you get the position from this not the direct value
