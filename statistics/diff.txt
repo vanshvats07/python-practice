@@ -11,3 +11,4 @@ diff types of variables are quantitative and qualitative variables
 quantitative further of two types discrete and continuous 
 discrete quantitative you have to take a whole number not a fraction or decimal
 continuous quantiative you use height is 175.5 it can have any type of value
+qualitative are categorical values one is gender one is color 
