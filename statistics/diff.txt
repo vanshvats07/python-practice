@@ -65,3 +65,7 @@ p(k)=4/52 , p(heart)=13/52, p(k and heart)=1/52
 Two independent events are the event which dont affect one another
 eg tossing a coin(Head and Tails)
 p(H)=1/2 and p(T)=1/2
+in the case of rolling a die the probabily of the outcome to be 1 is independent about the probability of outcome to be 2 
+dependent event is a event in which the 2 events is dependent on each other
+eg take a king from the deck and then the queen card from the deck
+
