@@ -86,4 +86,10 @@ Poisson Distribution(pmf)
 log normal distribution(pdf)
 Uniform Distribution
 
-Bernoulli distribution is the simplest discrete probability distribution. It represents the probability distribution of a random variable that has exactly two possible outcomes sucess with probability p and failure with probability 1-p . it is used to model binary outcomes, such as a coin 
+Bernoulli distribution is the simplest discrete probability distribution. It represents the probability distribution of a random variable that has exactly two possible outcomes sucess with probability p and failure with probability 1-p . it is used to model binary outcomes, such as a coin it is discrete random variable
+outcomes are binary 
+eg tossing a coin {H,T}
+whether the person will pass or fail
+if the probability of passing is 0.4 then the probability of not passing is 1-0.4 = 0.6
+Mean of Bernoulli Distribution is summition of k.p(k) k can either be 1 or 0 because in bernoulli only binary are possible
+
