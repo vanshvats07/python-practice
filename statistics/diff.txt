@@ -62,3 +62,6 @@ additive property in probability the probability of the two events get added up
 Non mutual exclusive events two events are possible at the same time for eg drawing a card from a deck
 for example what is the probabilty that the card drawin is k or heart p(k or heart)=p(k)+p(heart)-p(k and heart)
 p(k)=4/52 , p(heart)=13/52, p(k and heart)=1/52
+Two independent events are the event which dont affect one another
+eg tossing a coin(Head and Tails)
+p(H)=1/2 and p(T)=1/2
