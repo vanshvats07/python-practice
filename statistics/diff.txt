@@ -68,4 +68,5 @@ p(H)=1/2 and p(T)=1/2
 in the case of rolling a die the probabily of the outcome to be 1 is independent about the probability of outcome to be 2 
 dependent event is a event in which the 2 events is dependent on each other
 eg take a king from the deck and then the queen card from the deck
+multiplication rule pr(H and T)=P(h)*P(t)
 
