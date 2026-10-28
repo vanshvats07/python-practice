@@ -85,3 +85,5 @@ Normal/Gaussian Distribution
 Poisson Distribution(pmf)
 log normal distribution(pdf)
 Uniform Distribution
+
+Bernoulli distribution is the simplest discrete probability distribution. It represents the probability distribution of a random variable that has exactly two possible outcomes sucess with probability p and failure with probability 1-p . it is used to model binary outcomes, such as a coin 
