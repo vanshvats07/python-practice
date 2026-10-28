@@ -58,4 +58,7 @@ example is toss a coin outcomes are head or tail so probab is 50 percent
 rolling a die can hace 6 output so probability of getting any one is 1/6
 Mutually exclusive event Two events are mutually exclusive if they cannot occur at the same time
 tossing a coin i cannot get head and tails at the same time 
-
+additive property in probability the probability of the two events get added up
+Non mutual exclusive events two events are possible at the same time for eg drawing a card from a deck
+for example what is the probabilty that the card drawin is k or heart p(k or heart)=p(k)+p(heart)-p(k and heart)
+p(k)=4/52 , p(heart)=13/52, p(k and heart)=1/52
