@@ -53,3 +53,5 @@ It is of two types Pearson coefficient and the other is spearman correlation
 Pearson coefficient limits covvariance from [-1 to 1]
 fir this we divide the covariance by standard deviation of x and y 
 the more the value towards +1 the more +ve correlated x and y
+Probability likelihood of an event happening
+
