@@ -56,5 +56,6 @@ the more the value towards +1 the more +ve correlated x and y
 Probability likelihood of an event happening
 example is toss a coin outcomes are head or tail so probab is 50 percent
 rolling a die can hace 6 output so probability of getting any one is 1/6
-
+Mutually exclusive event Two events are mutually exclusive if they cannot occur at the same time
+tossing a coin i cannot get head and tails at the same time 
 
