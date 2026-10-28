@@ -80,3 +80,8 @@ Types of probability distribution
 [pdf,pmf,cdf]
 
 Bernoulli Distribution outcomes are binary
+Binary Distribution
+Normal/Gaussian Distribution
+Poisson Distribution(pmf)
+log normal distribution(pdf)
+Uniform Distribution
