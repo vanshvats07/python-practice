@@ -70,3 +70,9 @@ dependent event is a event in which the 2 events is dependent on each other
 eg take a king from the deck and then the queen card from the deck
 multiplication rule pr(H and T)=P(h)*P(t)
 
+Probability Distribution Functions describes how the probabilities are distributed over the value of a random variable
+2 types of probability distribution function
+1 probability mass function (PMF) is used for discrete random variable
+2. probability density function(PDF) is used for continuous random variable
+
+
