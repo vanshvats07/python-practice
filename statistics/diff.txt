@@ -75,4 +75,4 @@ Probability Distribution Functions describes how the probabilities are distribut
 1 probability mass function (PMF) is used for discrete random variable
 2. probability density function(PDF) is used for continuous random variable
 
-
+probability density is nothing but the gradient of cumulative density function
