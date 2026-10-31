@@ -102,7 +102,9 @@ for discrete random variable we have bernoulli and Poisson
 
 For Normal Gaussian Distribution a normal distribution or Gaussian Distribution is a type of continuous probability distribution for a real valued random variable
 Gaussian distribution has continuos random variable 
-
+example heights of students in a class
+Heights of Students in a class
+Iris data set consist of Petal length, Petal Width, Sepal Length, Sepal Width
 
 
 
