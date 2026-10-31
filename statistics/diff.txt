@@ -94,6 +94,6 @@ if the probability of passing is 0.4 then the probability of not passing is 1-0.
 Mean of Bernoulli Distribution is summition of k.p(k) k can either be 1 or 0 because in bernoulli only binary are possible
 Median in bernoulli is zero if q>p , median is 0.5 i q=p, median is 1 if q<P
 Mode in Bernoulli is p if p>q and vice versa in the opposite case
-
+Variance in Bernoulli
 
 
