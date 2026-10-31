@@ -96,6 +96,6 @@ Median in bernoulli is zero if q>p , median is 0.5 i q=p, median is 1 if q<P
 Mode in Bernoulli is p if p>q and vice versa in the opposite case
 Variance in Bernoulli
 Poisson Distribution in probab theory and statistics the distribution is a discrete probability distribution that expresses the probability of a given number of events occuring in a fixed interval of time if these events occur with a known constant mean rate and independetly of the time since the last event
-
+example is No. of people visiting hospital every hour, No. of people visiting banks every hour
 
 
