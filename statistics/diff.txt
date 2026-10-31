@@ -101,7 +101,7 @@ Lambda is expected number of events occuring at every time interval
 for discrete random variable we have bernoulli and Poisson
 
 For Normal Gaussian Distribution a normal distribution or Gaussian Distribution is a type of continuous probability distribution for a real valued random variable
-
+Gaussian distribution has continuos random variable 
 
 
 
