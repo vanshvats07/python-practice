@@ -106,5 +106,6 @@ example heights of students in a class
 Heights of Students in a class
 Iris data set consist of Petal length, Petal Width, Sepal Length, Sepal Width
 
+Z score in standard normal distribution is used to convert any random variable to where the std deviation becomes 1 and mean becomes zero 
 
 
