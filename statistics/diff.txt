@@ -111,3 +111,4 @@ Power Law distribution is a functional relationship between two quantites where 
 by using boxcox transformation we can convert power law distribution to normal distribution
 any curve that follows the 80 20 rule is considered under Pareto Distribution
 paleto to normal conversion boxCox transformation is used
+The Central Limit Theorem (CLT) states that the sampling distribution of the sample mean approaches a normal distribution as the sample size increases, regardless of the shape of the original population distribution
