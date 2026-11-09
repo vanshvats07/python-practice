@@ -99,6 +99,7 @@ Poisson Distribution in probab theory and statistics the distribution is a discr
 Example is No. of people visiting hospital every hour, No. of people visiting banks every hour
 pdf stands for probability distributino function which means that how probability is distributed over a random variable
 Bernoulli distribution is for discrete random variable
-
+Standardization is for normalizing the data with diff units are standardized
+Clusterig Algorithm Linear Regression Logistic Regression 
 
 
