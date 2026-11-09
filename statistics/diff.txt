@@ -110,3 +110,4 @@ Log normal is a continuous distributino of a random variable whose logarithm is 
 Power Law distribution is a functional relationship between two quantites where a relative change in one quantity results in a proportional relative change in the other quantity independent of the intial size of those quantities one quantity varies as a power of another
 by using boxcox transformation we can convert power law distribution to normal distribution
 any curve that follows the 80 20 rule is considered under Pareto Distribution
+paleto to normal conversion boxCox transformation is used
