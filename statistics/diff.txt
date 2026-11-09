@@ -101,5 +101,9 @@ pdf stands for probability distributino function which means that how probabilit
 Bernoulli distribution is for discrete random variable
 Standardization is for normalizing the data with diff units are standardized
 Clusterig Algorithm Linear Regression Logistic Regression 
+Uniform Distribution is of two types
+1) Continuos Uniform Distribution 2) Discrete Uniform distribution
+Continuos uniform distribution describes an element in where there is an arbitrary outcome that lies between minimum and maximum values. The bounds are definec by the parametes a and b which are the minimum and maximum values.
+
 
 
